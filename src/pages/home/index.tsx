@@ -1,5 +1,4 @@
 import './style.css'
-import Header from '../../components/header'
 
 import imgContato from "../../assets/img/homepage/img-contato.png"
 

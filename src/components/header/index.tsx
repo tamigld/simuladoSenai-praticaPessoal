@@ -1,7 +1,7 @@
 import './style.css'
 
 import logo from "../../assets/img/homepage/logo.png"
-import admIcon from "../../assets/img/adm-icon.png"
+// import admIcon from "../../assets/img/adm-icon.png"
 import { Link } from 'react-router-dom'
 
 export default function Header(){
